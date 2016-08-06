@@ -1,0 +1,41 @@
+_repo: Chivalry--Dizain-des-Reines_11752
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Rascoe, Burton
+    birthdate: 1892
+    deathdate: 1957
+    gutenberg_agent_id: '40216'
+    url: http://www.gutenberg.org/2009/agents/40216
+creator:
+  author:
+    agent_name: Cabell, James Branch
+    alias: Cabell, Branch
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '166'
+    url: http://www.gutenberg.org/2009/agents/166
+    wikipedia: http://en.wikipedia.org/wiki/James_Branch_Cabell
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+- !lcsh 'Middle Ages -- Fiction'
+- GITenberg
+tableOfContents: Precautional -- The prologue -- The story of the sestina -- The story
+  of the tenson -- The story of the rat-trap -- The story of the choices -- The story
+  of the housewife -- The story of the satraps -- The story of the heritage -- The
+  story of the scabbard -- The story of the Navarrese -- The story of the fox-brush
+  -- The epilogue.
+title: 'Chivalry: Dizain des Reines'
+url: http://www.gutenberg.org/ebooks/11752
